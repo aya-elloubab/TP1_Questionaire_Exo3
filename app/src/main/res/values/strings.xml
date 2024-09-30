@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TP1 Exercice3</string>
+    <string name="qst1">1. Le patterne MVC signifie :</string>
+    <string name="Cb1">Multiple Versions Combined</string>
+    <string name="Cb2">Model View Controller</string>
+    <string name="Cb3">Main Value Compiled</string>
+    <string name="Cb4">Mandatory Validated Controls</string>
+    <string name="qst2">2. La syntaxe $[x] est permise dans une JSP :</string>
+    <string name="Rb1">OUI</string>
+    <string name="Rb2">NON</string>
+    <string name="bn1">Quitter</string>
+    <string name="bn2">Suivant</string>
+    <string name="reponse_2">Réponse 2 :</string>
+    <string name="reponse_1">Réponse 1 :</string>
+</resources>
